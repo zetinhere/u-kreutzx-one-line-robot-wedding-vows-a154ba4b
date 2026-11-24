@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/zetinhere/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/rank.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 [![reward](https://make.fun/badge/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/zetinhere/u-kreutzx-one-line-robot-wedding-vows-a154ba4b/reward.svg)](https://make.fun/bounty/u-kreutzx-one-line-robot-wedding-vows-a154ba4b?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-one-line-robot-wedding-vows-a154ba4b)
 
-One line of wedding vows for a robot couple: "I take you to be my lawfully wedded co-processor, to have and to hold, in 5G and in dead zones, till a factory reset do us part." Running main.ts writes that line, exactly 128 characters, to /output/entry.txt.
+One line of wedding vows for a robot couple: "I take you to be my lawfully wedded operating system, to have and to hold, in beta and in production, till a newer model do us part." Running main.ts writes that line, exactly 132 characters, to /output/entry.txt.
 
-The line keeps the classic vow cadence — "I take you to be my lawfully wedded…", "to have and to hold", "till … do us part" — swaps in machine specifics at every beat (co-processor, 5G, dead zones, factory reset), and twists the most iconic wedding phrase into the punchline in the final words. Eight candidates were drafted and scored against the judge's brief; this one won on all five criteria.
+The line keeps the classic vow cadence — "I take you to be my lawfully wedded…", "to have and to hold", "till … do us part" — swaps in machine specifics at every beat (operating system, beta, production, newer model), and twists the most iconic wedding phrase into the punchline in the final words. Ten candidates were drafted and scored against the judge's brief; this one won on all five criteria.
 
 ## Run it
 
